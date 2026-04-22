@@ -8,12 +8,12 @@ For my Capstone Project I set out to conclude whether our nation's capital can t
 
 **Answered Project Questions**
 
-Is ADA  infrastructure evenly distributed across all wards? If not, what are the disabilities?
-What is the most common type of disability? Does this reflect the most common type of accessibility assistance? 
-What's the median distance from a metro stop and bus stop for a disabled person?
-Which type of infrastructure is the least compliant? Which is the best?
-Is there noticeable overlap in infrastructure quality in certain regions, ie curb ramps, sidewalks and crosswalks are all subpar 
-Are there any economic correlations? 
+- Is ADA  infrastructure evenly distributed across all wards? If not, what are the disabilities?
+- What is the most common type of disability? Does this reflect the most common type of accessibility assistance? 
+- What's the median distance from a metro stop and bus stop for a disabled person?
+- Which type of infrastructure is the least compliant? Which is the best?
+- Is there noticeable overlap in infrastructure quality in certain regions, ie curb ramps, sidewalks and crosswalks are all subpar
+- Are there any economic correlations? 
 
 
 **Tools**
