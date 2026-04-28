@@ -30,3 +30,12 @@ To get a better understanding of my project I conducted research as to why I’m
 **Repoistories**
 
 The first repository is the collection of all the datasets implemented in this project. In case you would like to replicate any of the code if conducted, the datasets are ordered from project by repository use. 
+
+**Limitations**
+
+- I didn’t have exact locations for specific disabilities due to CDC guidelines that prohibit including too much trackable information for safety concerns 
+- Unable to join most datasets together, restricting certain analysis options 
+- Technical Difficulties, my main laptop was dysfunctional for almost 2 weeks—limiting my mapping capabilities
+
+**Acknowledgements**
+I would like to thank my colleagues for providing feed back that was critical to my Project, friends and family who painstakingly listened to my ideas and frustrations, and finally professor Perine for continuous guidance from start to finish on my Capstone Project.
