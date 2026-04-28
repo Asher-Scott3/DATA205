@@ -13,7 +13,8 @@ For my Capstone Project I set out to conclude whether our nation's capital can t
 - What's the median distance from a metro stop and bus stop for a disabled person?
 - Which type of infrastructure is the least compliant? Which is the best?
 - Is there noticeable overlap in infrastructure quality in certain regions, ie curb ramps, sidewalks and crosswalks are all subpar
-- Are there any economic correlations? 
+- What type of barriers/hazards obstruct sidewalk mobility?
+- Are there any economic correlations? If so what are they?
 
 
 **Tools**
