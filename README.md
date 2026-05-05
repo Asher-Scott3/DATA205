@@ -48,7 +48,7 @@ Following the Exploratory Analysis Repositories will be my mapping section. The 
 
 **Research**
 
-To get a better understanding of my project I conducted research as to why I’m seeing certain trends. These websites were not used for my analysis but to help provide context and overall better understanding. 
+To get a better understanding of my project I conducted research as to why I’m seeing certain trends. These websites were not used for my analysis but to help provide context and overall better understanding. My research notes and links to source material can be found in the Word Document under the research Repository 
 
 **Limitations**
 
