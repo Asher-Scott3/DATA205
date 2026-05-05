@@ -32,14 +32,14 @@ Before diving into mapping, I conducted Exploratory Data Analysis (EDA) in R Stu
 
 Key EDA Findings:
 
-Population Disparity: Ward 3 has the highest concentration of disabled residents (approx. 18.2% of its population), while Ward 6 has the lowest (approx. 9.5%). This immediately raised a red flag, given Ward 3’s reputation for wealth and historical underinvestment in curb ramps.
-Most Common Disability: Across all wards, mobility-related disabilities (ambulatory difficulties) are the most reported (approx. 38% of disabled respondents). The second most common is cognitive disability (22%). Interestingly, the most widely available ADA infrastructure targets mobility (ramps, level boarding, tactile pavers), leaving a potential gap for those with sensory or cognitive needs.
-Least Compliant Infrastructure: Sidewalks. By a wide margin. Nearly 14% of DC’s sidewalks have at least one documented barrier or hazard—with missing segments, extreme cracking, and overgrown vegetation being the top three culprits. The most compliant? Metro stations (96% of surveyed stations met or exceeded ADA boarding requirements).
-Median Distance for Disabled Residents:
+- Population Disparity: Ward 3 has the highest concentration of disabled residents (approx. 18.2% of its population), while Ward 6 has the lowest (approx. 9.5%). This immediately raised a red flag, given Ward 3’s reputation for wealth and historical underinvestment in curb ramps.
+- Most Common Disability: Across all wards, mobility-related disabilities (ambulatory difficulties) are the most reported (approx. 38% of disabled respondents). The second most common is cognitive disability (22%). Interestingly, the most widely available ADA infrastructure targets mobility (ramps, level boarding, tactile pavers), leaving a potential gap for those with sensory or cognitive needs.
+- Least Compliant Infrastructure: Sidewalks. By a wide margin. Nearly 14% of DC’s sidewalks have at least one documented barrier or hazard—with missing segments, extreme cracking, and overgrown vegetation being the top three culprits. The most compliant? Metro stations (96% of surveyed stations met or exceeded ADA boarding requirements).
+- Median Distance for Disabled Residents:
 To a bus stop: 138 meters (less than a 2-minute walk for most)
 To a Metro stop: 1,420 meters (approx. a 17-minute walk)
 Interpretation: Buses are the true accessibility backbone. If you cannot walk long distances, rail is functionally less accessible.
-Correlation Check (Economic):
+- Correlation Check (Economic):
 Yes—and it’s uncomfortable. Wards with higher median household incomes (Ward 3, Ward 2) had fewer ADA-compliant curb ramps per capita but higher-quality sidewalks. Lower-income wards (Ward 7, Ward 8) had more ramps (likely due to recent grant funding) but worse sidewalk continuity. This suggests reactive rather than proactive investment.
 
 **Mapping**
