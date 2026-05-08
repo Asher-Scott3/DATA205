@@ -53,7 +53,7 @@ To get a better understanding of my project I conducted research as to why I’m
 **Limitations**
 
 - I didn’t have exact locations for specific disabilities due to CDC guidelines that prohibit including too much trackable information for safety concerns 
-- Unable to join most datasets together, restricting certain analysis options 
+- Unable to join most datasets together, restricting certain analysis options. Sidewalk_Conditon_Assement was specifcally difficult to join as it didn't have traditional coordanites to join with.
 - Technical Difficulties, my main laptop was dysfunctional for almost 2 weeks—limiting my mapping capabilities
 
 **Acknowledgements**
