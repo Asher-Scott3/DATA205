@@ -40,7 +40,7 @@ To a bus stop: 138 meters (less than a 2-minute walk for most)
 To a Metro stop: 1,420 meters (approx. a 17-minute walk)
 Interpretation: Buses are the true accessibility backbone. If you cannot walk long distances, rail is functionally less accessible.
 - Correlation Check (Economic):
-Yes—and it’s uncomfortable. Wards with higher median household incomes (Ward 3, Ward 2) had fewer ADA-compliant curb ramps per capita but higher-quality sidewalks. Lower-income wards (Ward 7, Ward 8) had more ramps (likely due to recent grant funding) but worse sidewalk continuity. This suggests reactive rather than proactive investment.
+Primarily when it came to Bus stops, wards with higher median household incomes (Ward 3, Ward 2) had the most and best rated Bus stops by far. Those same wards had noticably fewer ADA-compliant curb ramps per capita but higher-quality sidewalks. Lower-income wards (Ward 7, Ward 8) had more ramps (likely due to recent grant funding) but worse sidewalk continuity. This suggests reactive rather than proactive investment.
 
 **Mapping**
 
