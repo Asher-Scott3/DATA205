@@ -28,7 +28,7 @@ The tools I utilized during this project were QGIS, R studio, and Jupyter Notebo
 - The datasets falling under Mapping Datasets are identical to the standard dataset listed previously, they have just been converted to geoJson for easier mapping usage.
 
 **EDA & Graphs** 
-Before diving into mapping, I conducted Exploratory Data Analysis (EDA) in R Studio to understand the distributions, check for missing values, and identify initial patterns across DC’s eight wards. The goal was simple: let the data speak before I forced it onto a map.
+Before diving into mapping, I conducted Exploratory Data Analysis (EDA) in GOOGLE Colab to understand the distributions, check for missing values, and identify initial patterns across DC’s eight wards. The goal was simple: let the data speak before I forced it onto a map.
 
 Key EDA Findings:
 
@@ -44,7 +44,7 @@ Primarily when it came to Bus stops, wards with higher median household incomes 
 
 **Mapping**
 
-Following the Exploratory Analysis Repositories will be my mapping section. The map file will contain the various types of maps I made for my project. Directly below that repository will be the Word Document explaining the step by step process to recreate each map in QGIS.
+Following the Exploratory Analysis Repositories will be my mapping section. The map file will contain the various types of maps I made for my project in QGIS
 
 **Research**
 
