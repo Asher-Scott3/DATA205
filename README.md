@@ -19,13 +19,25 @@ For my Capstone Project I set out to conclude whether our nation's capital can t
 
 **Tools**
 
-The tools I utilized during this project were QGIS, R studio, and Jupyter Notebook. I used R studio for exploratory and statistical analysis, as well as to create the more basic visualizations for my project. Jupyter Notebook was used for higher quality visualizations, such as the comparison between the wards. Finally, the main tool I used was QGIS, specifically for all mapping and joining, as well as the statistical analysis for distancing.  
+The tools I utilized during this project were QGIS, and Google Colab. I used R studio for exploratory and statistical analysis, as well as to create the more basic visualizations for my project. Jupyter Notebook was used for higher quality visualizations, such as the comparison between the wards. Finally, the main tool I used was QGIS, specifically for all mapping and joining, as well as the statistical analysis for distancing.  
 
 
 **Datasets**
-
 - The first repository is the collection of all the datasets implemented in this project. In case you would like to replicate any of the code if conducted, the datasets are ordered from project by repository use. 
 - The datasets falling under Mapping Datasets are identical to the standard dataset listed previously, they have just been converted to geoJson for easier mapping usage.
+
+Dataset Summaries: 
+ACS_5-Year_Economic_Characteristics_DC_Ward: Provides ward-level economic data, including median household income, poverty rates, and employment status, supporting socioeconomic analysis of infrastructure disparities across wards.
+ACS_5-Year_Social_Characteristics_DC_Ward: Provides ward-level demographic and social characteristics, including age, economic status, and broad disability indicators, but does not specify disability types or include precise location data beyond ward boundaries.
+Program Survey (psm_11): Contains detailed information on specific types of disabilities but lacks any geographic location data, making it useful for prevalence analysis but not spatial mapping.
+Sidewalk_Condition_Assessment: Records sidewalk infrastructure data, including condition category (SCI_CATEGORY), maintenance priority, and sidewalk length in feet, supporting prioritization of repairs.
+ADA_Audible_Pedestrian_Signals: Lists pedestrian signals with a categorical column for pushbutton type (PUSHBUTTON_TYPE), indicating whether signals have audible features for accessibility.
+ADA_Curb_Ramp: Documents curb ramps with a categorical CONDITION column, allowing assessment of ramp maintenance and compliance with accessibility standards.
+Metro_Station_(Regional): Contains information about metro station locations and attributes, useful for transit accessibility analysis.
+ADA_Bus_Stop: Describes bus stop conditions through a CONDITIONS categorical column, supporting evaluation of ADA compliance and maintenance needs at transit stops.
+ADA_Barriers_in_the_Public_Right_of_Way: Identifies physical barriers (e.g., poles, cracks, obstructions) in pedestrian areas that impede accessibility for individuals with disabilities.
+Wards_from_2022: Provides the 2022 ward boundary geography for the District of Columbia, serving as a spatial reference layer for other ward-based datasets.
+
 
 **EDA & Graphs** 
 Before diving into mapping, I conducted Exploratory Data Analysis (EDA) in GOOGLE Colab to understand the distributions, check for missing values, and identify initial patterns across DC’s eight wards. The goal was simple: let the data speak before I forced it onto a map.
@@ -57,4 +69,4 @@ To get a better understanding of my project I conducted research as to why I’m
 - Technical Difficulties, my main laptop was dysfunctional for almost 2 weeks—limiting my mapping capabilities
 
 **Acknowledgements**
-I would like to thank my colleagues for providing feed back that was critical to my Project, friends and family who painstakingly listened to my ideas and frustrations, and finally professor Perine for continuous guidance from start to finish on my Capstone Project.
+I would like to thank my colleagues for providing feed back that was critical to my Project, friends and family who painstakingly listened to my ideas and frustrations, Zachary Smith from the DDOT who graciously took time to correspond with me, Professor Saidi who instill good time managment in me, and finally professor Perine for continuous guidance from start to finish on my Capstone Project.
